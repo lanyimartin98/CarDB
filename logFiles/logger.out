@@ -1,0 +1,314 @@
+2019-12-02 10:38:37 INFO  Car:143 - New car was inserted with a title MNN-971
+2019-12-02 10:38:37 INFO  Car:77 - MNN-971 was specified as racecar
+2019-12-02 10:38:54 INFO  Car:143 - New car was inserted with a title MNN-971
+2019-12-02 10:38:54 INFO  Car:77 - MNN-971 was specified as racecar
+2019-12-02 10:38:54 INFO  Car:143 - New car was inserted with a title MNN-971
+2019-12-02 10:38:54 ERROR Car:63 - Invalid date tried to be set
+2019-12-02 10:38:54 INFO  Car:143 - New car was inserted with a title MNN-971
+2019-12-02 10:38:54 INFO  Car:143 - New car was inserted with a title MNN-971
+2019-12-02 10:38:54 ERROR Car:118 - Milage was tried to be lowered on MNN-971
+2019-12-02 10:38:54 INFO  Car:143 - New car was inserted with a title MNN-971
+2019-12-02 10:38:54 INFO  Car:143 - New car was inserted with a title MNN-971
+2019-12-02 10:39:44 INFO  - New car was inserted with a title MNN-971
+2019-12-02 10:39:44 INFO  - MNN-971 was specified as racecar
+2019-12-02 10:39:44 INFO  - New car was inserted with a title MNN-971
+2019-12-02 10:39:44 ERROR - Invalid date tried to be set
+2019-12-02 10:39:44 INFO  - New car was inserted with a title MNN-971
+2019-12-02 10:39:44 INFO  - New car was inserted with a title MNN-971
+2019-12-02 10:39:44 ERROR - Milage was tried to be lowered on MNN-971
+2019-12-02 10:39:44 INFO  - New car was inserted with a title MNN-971
+2019-12-02 10:39:44 INFO  - New car was inserted with a title MNN-971
+2019-12-02 10:50:17 INFO  - DAO initialized
+2019-12-02 10:50:17 INFO  - New car was inserted with a title MNN-971
+2019-12-02 10:50:18 ERROR - MNN-971was not found in the database
+2019-12-02 10:50:18 INFO  - MNN-971 was added to the database
+2019-12-02 10:50:18 INFO  - DAO initialized
+2019-12-02 10:50:18 INFO  - MNN-971 was specified as racecar
+2019-12-02 10:50:18 INFO  - DAO initialized
+2019-12-02 10:50:18 INFO  - New car was inserted with a title MNN-971
+2019-12-02 10:50:18 INFO  - MNN-971 was specified as racecar
+2019-12-02 10:50:18 INFO  - MNN-971 already added
+2019-12-02 10:50:18 ERROR - MNN-971 is already in the list
+2019-12-02 10:50:18 INFO  - DAO initialized
+2019-12-02 10:50:18 INFO  - MNN-971 was specified as racecar
+2019-12-02 10:50:18 ERROR - MMN-971was not found in the database
+2019-12-03 12:59:13 INFO  - DAO initialized
+2019-12-03 12:59:13 INFO  - New car was inserted with a title MNN-971
+2019-12-03 12:59:13 ERROR - MNN-971 was not found in the database
+2019-12-03 12:59:13 INFO  - MNN-971 was added to the database
+2019-12-03 12:59:13 INFO  - DAO initialized
+2019-12-03 12:59:13 INFO  - MNN-971 was specified as racecar
+2019-12-03 12:59:13 INFO  - DAO initialized
+2019-12-03 12:59:13 INFO  - New car was inserted with a title MNN-971
+2019-12-03 12:59:13 INFO  - MNN-971 was specified as racecar
+2019-12-03 12:59:13 INFO  - MNN-971 already added
+2019-12-03 12:59:13 ERROR - MNN-971 is already in the list
+2019-12-03 12:59:13 INFO  - DAO initialized
+2019-12-03 12:59:13 INFO  - MNN-971 was specified as racecar
+2019-12-03 12:59:13 ERROR - MMN-971 was not found in the database
+2019-12-03 13:00:37 INFO  - DAO initialized
+2019-12-03 13:00:37 INFO  - New car was inserted with a title MNN-971
+2019-12-03 13:00:37 ERROR - MNN-971 was not found in the database
+2019-12-03 13:00:37 INFO  - MNN-971 was added to the database
+2019-12-03 13:00:37 INFO  - DAO initialized
+2019-12-03 13:00:37 INFO  - MNN-971 was specified as racecar
+2019-12-03 13:00:37 INFO  - DAO initialized
+2019-12-03 13:00:37 INFO  - New car was inserted with a title MNN-971
+2019-12-03 13:00:37 INFO  - MNN-971 was specified as racecar
+2019-12-03 13:00:37 INFO  - MNN-971 already added
+2019-12-03 13:00:37 ERROR - MNN-971 is already in the list
+2019-12-03 13:00:37 INFO  - DAO initialized
+2019-12-03 13:00:37 INFO  - MNN-971 was specified as racecar
+2019-12-03 13:00:37 ERROR - MMN-971 was not found in the database
+2019-12-03 13:18:08 INFO  - New car was inserted with a title NSR-107
+2019-12-03 13:22:09 INFO  - New car was inserted with a title NSR-107
+2019-12-03 13:22:09 INFO  - New car was inserted with a title NSR-107
+2019-12-03 15:54:02 INFO  - New car was inserted with a title NSR-107
+2019-12-03 15:54:02 INFO  - New car was inserted with a title NSR-107
+2019-12-03 15:54:02 INFO  - New car was inserted with a title NSR-107
+2019-12-03 15:54:02 INFO  - New car was inserted with a title NSR-107
+2019-12-03 15:54:24 INFO  - New car was inserted with a title NSR-107
+2019-12-03 15:54:24 INFO  - New car was inserted with a title NSR-107
+2019-12-03 15:54:24 INFO  - New car was inserted with a title NSR-107
+2019-12-03 15:54:24 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:01:11 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:01:11 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:01:11 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:01:11 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:01:11 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:01:37 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:04:41 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:04:50 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:04:50 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:04:50 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:04:50 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:04:50 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:04:50 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:05:39 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:05:39 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:05:39 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:05:39 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:05:39 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:05:39 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:06:16 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:06:16 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:06:16 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:06:16 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:06:16 INFO  - New car was inserted with a title NSR-107
+2019-12-03 16:06:16 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:03:52 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:03:52 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:03:52 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:03:52 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:03:52 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:03:52 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:04:07 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:04:07 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:04:07 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:04:07 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:04:07 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:04:07 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:04:15 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:04:15 INFO  - MNN-971 was specified as racecar
+2019-12-05 12:04:15 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:04:15 ERROR - Invalid date tried to be set
+2019-12-05 12:04:15 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:04:15 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:04:15 ERROR - Milage was tried to be lowered on MNN-971
+2019-12-05 12:04:15 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:04:15 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:04:28 INFO  - DAO initialized
+2019-12-05 12:04:28 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:04:29 ERROR - MNN-971 was not found in the database
+2019-12-05 12:04:29 INFO  - MNN-971 was added to the database
+2019-12-05 12:04:29 INFO  - DAO initialized
+2019-12-05 12:04:29 INFO  - MNN-971 was specified as racecar
+2019-12-05 12:04:29 INFO  - DAO initialized
+2019-12-05 12:04:29 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:04:29 INFO  - MNN-971 was specified as racecar
+2019-12-05 12:04:29 INFO  - MNN-971 already added
+2019-12-05 12:04:29 ERROR - MNN-971 is already in the list
+2019-12-05 12:04:29 INFO  - DAO initialized
+2019-12-05 12:04:29 INFO  - MNN-971 was specified as racecar
+2019-12-05 12:04:29 ERROR - MMN-971 was not found in the database
+2019-12-05 12:17:31 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:17:31 INFO  - MNN-971 was specified as racecar
+2019-12-05 12:17:31 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:17:31 ERROR - Invalid date tried to be set
+2019-12-05 12:17:31 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:17:31 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:17:31 ERROR - Milage was tried to be lowered on MNN-971
+2019-12-05 12:17:31 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:17:31 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:17:51 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:17:51 INFO  - MNN-971 was specified as racecar
+2019-12-05 12:17:51 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:17:51 ERROR - Invalid date tried to be set
+2019-12-05 12:17:51 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:17:51 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:17:51 ERROR - Milage was tried to be lowered on MNN-971
+2019-12-05 12:17:51 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:17:51 ERROR - Invalid title format was used
+2019-12-05 12:17:51 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:20:41 INFO  - DAO initialized
+2019-12-05 12:20:41 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:20:41 ERROR - MNN-971 was not found in the database
+2019-12-05 12:20:41 INFO  - MNN-971 was added to the database
+2019-12-05 12:20:41 INFO  - DAO initialized
+2019-12-05 12:20:41 INFO  - MNN-971 was specified as racecar
+2019-12-05 12:20:41 INFO  - DAO initialized
+2019-12-05 12:20:41 INFO  - New car was inserted with a title MNN-971
+2019-12-05 12:20:41 INFO  - MNN-971 was specified as racecar
+2019-12-05 12:20:41 INFO  - MNN-971 already added
+2019-12-05 12:20:41 ERROR - MNN-971 is already in the list
+2019-12-05 12:20:41 INFO  - DAO initialized
+2019-12-05 12:20:41 INFO  - MNN-971 was specified as racecar
+2019-12-05 12:20:41 ERROR - MMN-971 was not found in the database
+2019-12-05 12:22:08 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:22:08 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:22:08 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:22:08 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:22:08 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:22:08 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:28:35 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:28:35 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:28:35 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:28:35 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:28:35 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:28:35 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:34:23 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:34:24 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:34:24 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:34:24 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:34:24 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:34:24 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:34:52 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:34:52 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:34:52 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:34:52 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:34:52 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:34:52 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:34:52 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:36:46 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:36:46 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:36:46 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:36:46 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:36:46 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:36:46 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:36:46 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:05 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:05 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:05 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:05 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:05 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:05 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:05 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:35 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:35 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:35 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:35 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:35 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:35 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:37:35 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:14 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:14 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:14 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:14 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:14 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:14 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:14 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:50 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:50 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:50 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:50 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:50 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:50 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:50 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:38:50 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:42:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:42:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:42:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:42:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:42:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:42:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:42:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:43:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:43:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:43:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:43:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:43:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:43:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:43:28 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:54:51 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:54:51 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:54:51 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:54:51 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:54:51 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:54:51 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:54:51 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:55:30 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:55:30 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:55:30 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:55:30 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:55:30 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:55:30 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:55:30 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:59:57 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:59:57 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:59:57 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:59:57 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:59:57 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:59:57 INFO  - New car was inserted with a title NSR-107
+2019-12-05 12:59:57 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:08 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:08 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:08 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:08 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:08 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:08 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:08 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:36 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:36 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:36 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:36 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:36 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:36 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:36 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:02:36 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:07:59 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:07:59 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:07:59 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:07:59 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:07:59 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:07:59 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:07:59 INFO  - New car was inserted with a title NSR-107
+2019-12-05 13:07:59 INFO  - New car was inserted with a title NSR-107
+2019-12-10 15:41:42 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:41:42 INFO  - MNN-971 was specified as racecar
+2019-12-10 15:41:42 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:41:42 ERROR - Invalid date tried to be set
+2019-12-10 15:41:42 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:41:42 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:41:42 ERROR - Milage was tried to be lowered on MNN-971
+2019-12-10 15:41:42 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:41:42 ERROR - Invalid title format was used
+2019-12-10 15:41:42 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:42:03 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:42:03 INFO  - MNN-971 was specified as racecar
+2019-12-10 15:42:03 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:42:03 ERROR - Invalid date tried to be set
+2019-12-10 15:42:03 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:42:03 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:42:03 ERROR - Milage was tried to be lowered on MNN-971
+2019-12-10 15:42:03 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:42:03 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:43:10 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:43:10 INFO  - MNN-971 was specified as racecar
+2019-12-10 15:43:10 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:43:10 ERROR - Invalid date tried to be set
+2019-12-10 15:43:10 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:43:10 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:43:10 ERROR - Milage was tried to be lowered on MNN-971
+2019-12-10 15:43:10 INFO  - New car was inserted with a title MNN-971
+2019-12-10 15:43:10 ERROR - Invalid title format was used
+2019-12-10 15:43:10 INFO  - New car was inserted with a title MNN-971
